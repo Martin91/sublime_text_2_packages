@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"CSS Format",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"Rails Latest Migration",
+		"SassBeautify",
+		"SCSS",
+		"TrailingSpaces"
+	]
+}
